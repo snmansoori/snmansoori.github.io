@@ -58,7 +58,7 @@ plugins:
 author:
   name   : "Sara AlMansoori"
   # avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "I am bad at coding"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
