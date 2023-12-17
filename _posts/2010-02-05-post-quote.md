@@ -1,5 +1,5 @@
 ---
-title: "Post: Quote"
+title: "Clustering and Classifying Images"
 categories:
   - Blog
 tags:
@@ -7,6 +7,4 @@ tags:
   - quote
 ---
 
-> Only one thing is impossible for God: To find any sense in any copyright law on the planet.
-  
-> <cite><a href="http://www.brainyquote.com/quotes/quotes/m/marktwain163473.html">Mark Twain</a></cite>
+<iframe src="https://docs.google.com/document/d/e/2PACX-1vRjQPqnALsuQ3SgwnclfTKc2oi6Jed0h2-EWPRWmdLw8y6nCOxDNU6wDIEm536u_g/pub?embedded=true" width="800" height="1200"></iframe>
